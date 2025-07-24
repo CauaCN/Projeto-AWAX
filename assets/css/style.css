@@ -838,6 +838,7 @@ CSS DE ÁREAS ESPECÍFICAS
         margin-right:30px;
     }
     nav {
+        display:none;
         position: absolute;
         z-index: 99;
         background-color: rgba(0, 0, 0, 0.9);
@@ -939,6 +940,7 @@ CSS DE ÁREAS ESPECÍFICAS
         margin-right:30px;
     }
     nav {
+        display:none;
         position: absolute;
         z-index: 99;
         background-color: rgba(0, 0, 0, 0.9);
